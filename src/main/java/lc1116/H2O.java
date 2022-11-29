@@ -1,4 +1,4 @@
-package leetcode1116;
+package lc1116;
 
 import java.util.concurrent.Semaphore;
 

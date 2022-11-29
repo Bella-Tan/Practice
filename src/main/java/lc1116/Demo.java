@@ -1,4 +1,4 @@
-package leetcode1116;
+package lc1116;
 
 public class Demo {
     public static void main(String[] args) {

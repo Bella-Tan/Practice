@@ -1,4 +1,4 @@
-package leetcode7;
+package lc7;
 
 public class Solution {
 

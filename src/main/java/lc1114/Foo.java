@@ -1,4 +1,4 @@
-package leetcode1114;
+package lc1114;
 
 import java.util.concurrent.CountDownLatch;
 
